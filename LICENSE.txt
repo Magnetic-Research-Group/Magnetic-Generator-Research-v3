@@ -1,0 +1,47 @@
+CERN OPEN HARDWARE LICENCE v2 - Weakly Reciprocal (CERN-OHL-W)
+
+Preamble
+
+CERN has developed this Licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs.
+
+1. Definitions
+
+1.1 "Licensor" means any natural or legal person that creates or modifies the design and distributes it under this Licence.
+
+1.2 "Copyright Holder" is: Magnetic Research Group (2026)
+
+1.3 "Source" means information such as design materials, schematics, layouts, bill of materials, source code, and mechanical drawings used to create or modify the Product.
+
+1.4 "Product" means any device, component, or physical artifact resulting from the execution of the Source.
+
+2. Grant of Licence
+
+2.1 Subject to the terms and conditions of this Licence, the Licensor hereby grants you a worldwide, royalty-free, non-exclusive, sub-licensable licence to:
+    a) use, study, and modify the Source;
+    b) manufacture, distribute, and sell Products based on the Source;
+    c) distribute the Source and any modifications thereto.
+
+3. Obligations
+
+3.1 Distribution of Source:
+If you distribute the Source or any modification of it, you must license it under the terms of this Licence (CERN-OHL-W v2). You must include a copy of this Licence and all copyright notices.
+
+3.2 Distribution of Products:
+If you distribute a Product based on the Source, you must provide the recipient with easy access to the Source (e.g., a URL to a repository) or a copy of the Source.
+
+3.3 Modifications:
+If you modify the Source, you must make those modifications available under this Licence.
+
+4. Disclaimer and Liability
+
+4.1 DISCLAIMER OF WARRANTY:
+THE SOURCE AND PRODUCT ARE PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE OR USE ARE DISCLAIMED. THE LICENSOR AND COPYRIGHT HOLDERS MAKE NO REPRESENTATION THAT THE SOURCE OR PRODUCT DOES NOT INFRINGE ANY PATENT, COPYRIGHT, OR OTHER INTELLECTUAL PROPERTY RIGHT.
+
+4.2 LIMITATION OF LIABILITY:
+THE LICENSOR AND COPYRIGHT HOLDERS SHALL HAVE NO LIABILITY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR OTHER DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA OR PROFITS, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, ARISING IN ANY WAY OUT OF THE USE OF THE SOURCE OR PRODUCT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. General
+
+5.1 If any provision of this Licence is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Licence.
+
+5.2 This Licence constitutes the entire agreement between the parties with respect to the subject matter hereof.
